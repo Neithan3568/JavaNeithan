@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neithan3568/devcam_2687351.git"
+    "url": "git+https://github.com/Neithan3568/devcamp_2687351.git"
   },
   "author": "A -  Neithan Salazar Castaño",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neithan3568/devcam_2687351/issues"
+    "url": "https://github.com/Neithan3568/devcamp_2687351/issues"
   },
-  "homepage": "https://github.com/Neithan3568/devcam_2687351#readme",
+  "homepage": "https://github.com/Neithan3568/devcamp_2687351#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
